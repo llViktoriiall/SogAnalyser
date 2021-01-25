@@ -1,0 +1,61 @@
+#ifndef SONGH
+#define SONGH
+
+#include "Unit_Main.h"
+#include <string>
+#include <vector>
+using namespace std;
+
+class Couplet;
+
+class Song {
+	public:
+	Song();
+	~Song();
+	set_author(wstring filepath);
+	set_name(wstring filepath);
+	set_num_couplet(wstring filepath);
+	string get_author();
+	string get_name();
+	int get_num_couplet();
+	void read(Couplet song[],wstring filepath ); //запис п≥сн≥
+	private:
+	string author;
+	string name;
+	int num_couplet;
+};
+
+class Couplet {
+	public:
+	Couplet();
+	~Couplet();
+	set_text(vector <string> lines);
+	set_pos(int num);
+	set_size(int num);
+	vector <string> get_text();
+	void print();//друк
+	void print_labeled();//друк з розм≥ткою
+	int get_pos();
+	int get_size();
+	friend void Song::read(Couplet song[],wstring filepath ); //запис п≥сн≥
+	void find_char(char sym);  //пошук символу
+	void find_word(int word_len, char *word); //пошук слова
+	void find_string(string line); //пошук стр≥чки
+	void show_first_lines();//вив≥д перших стр≥чок
+	void show_last_lines();//вив≥д останн≥х стр≥чок
+	void del_line(int posit);//видалитии стр≥чку
+	void change_places(int pos1,int pos2);//пом≥н€ти м≥сц€ми
+	string return_line(int l_pos);//поврнути строку на задан≥й позиц≥њ
+	bool find_rhyme_abab();//рима абаб
+	bool find_rhyme_vhv(char h);//рима вгв
+	bool find_rhyme_hdd(char h);//рима гдд
+	bool find_rhyme_zez(char e);//рима зез
+	friend std::ostream& operator << (std::ostream &out, const Couplet &C);//перевантажений вив≥д
+	friend std::istream& operator >> (std::istream &in, Couplet &C);//перевантажений вв≥д
+	private:
+	vector <string> text;
+	int pos;
+	int size;
+};
+
+

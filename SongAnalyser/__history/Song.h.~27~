@@ -1,0 +1,57 @@
+#include "Unit_Main.h"
+#include <string>
+#include <vector>
+using namespace std;
+
+class Couplet;
+
+class Song {
+	public:
+	Song();
+	~Song();
+	set_author(wstring filepath);
+	set_name(wstring filepath);
+	set_num_couplet(wstring filepath);
+	string get_author();
+	string get_name();
+	int get_num_couplet();
+	friend void operator >>(std::istream &in,const &Song, Couplet song[],wstring filepath ); //дружній метод
+	private:
+	string author; //k
+	string name; //k
+	int num_couplet; //k
+};
+
+class Couplet {
+	public:
+	Couplet(); //k
+	~Couplet(); //k
+	set_text(vector <string> lines);//k
+	set_pos(int num);//k
+	set_size(int num);//k
+	vector <string> get_text(); //k
+	void print();//k
+	void print_labeled();//k
+	int get_pos();//k
+	int get_size(); //k
+	friend void operator >>(std::istream &in,const &Song, Couplet song[],wstring filepath ); //k
+	void find_char(char sym);  //k
+	void find_word(int word_len, char *word); //k
+	void find_string(string line); //k
+	void show_first_lines();//k
+	void show_last_lines();//k
+	void del_line(int posit);//k
+	void change_places(int pos1,int pos2);//k
+	string return_line(int l_pos);//k
+	bool find_rhyme_abab();//k
+	bool find_rhyme_vhv(char h);//k
+	bool find_rhyme_hdd(char h);//k
+	bool find_rhyme_zez(char e);//k
+	friend std::ostream& operator << (std::ostream &out,const Couplet &C);//k
+	private:
+	vector <string> text; //k
+	int pos; //k
+	int size;
+};
+
+

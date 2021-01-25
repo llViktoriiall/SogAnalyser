@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.997,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit3.cpp=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.440,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.787,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Kursova\Song.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit3.dfm=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.742,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Song.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.757,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Kursova\Song.h=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitMM.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.740,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\SongAnalyser.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitON.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.dfm=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitON.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitHelp.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit4.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitHelp.dfm=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit4.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit2.cpp=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit2.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.603,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit2.dfm=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.726,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitMM.dfm=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.254,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Song_Analyser.cbproj=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.357,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitMM.cpp=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.931,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit3.h=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Song.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.525,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.082,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitHelp.cpp=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\Unit4.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Kursova\Song.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.748,=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\Kursova\Song.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.332,C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitCR.cpp=C:\Users\Вікторія\Documents\Embarcadero\Studio\Projects\SongAnalyser\UnitON.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="SongAnalyser.h"/>
+    <File Path="Song_Analyser.cpp"/>
+    <File Path="UnitMM.cpp"/>
+    <File Path="UnitMM.cpp"/>
+    <File Path="UnitMM.dfm"/>
+    <File Path="UnitMM.h"/>
+    <File Path="UnitHelp.cpp"/>
+    <File Path="UnitHelp.cpp"/>
+    <File Path="UnitHelp.dfm"/>
+    <File Path="UnitHelp.h"/>
+    <File Path="UnitCR.cpp"/>
+    <File Path="UnitCR.cpp"/>
+    <File Path="UnitCR.dfm"/>
+    <File Path="UnitCR.h"/>
+    <File Path="UnitON.cpp"/>
+    <File Path="UnitON.cpp"/>
+    <File Path="UnitON.dfm"/>
+    <File Path="UnitON.h"/>
+    <File Path="Song.cpp"/>
+    <File Path="Song.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
